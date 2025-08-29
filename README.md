@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Anshu Kondru</h1>
-<h3 align="center">"Driven and innovative, a B.Tech third-year student who's mastering the intricacies of web development . With a keen eye for detail and a passion for coding, they seamlessly blend creativity with technical prowess to craft captivating digital experiences. , they thrive on the challenges that arise in both domains. Their commitment to continuous learning and their ability to adapt to the evolving landscape of technology make them a valuable asset in any project or team."</h3>
+<h3 align="center">"Driven and innovative, a B.Tech final-year student who's mastering the intricacies of web development . With a keen eye for detail and a passion for coding, they seamlessly blend creativity with technical prowess to craft captivating digital experiences. , they thrive on the challenges that arise in both domains. Their commitment to continuous learning and their ability to adapt to the evolving landscape of technology make them a valuable asset in any project or team."</h3>
 
-- 🔭 I’m currently working on **final year**
-
-- 🌱 I’m currently learning **react**
+- 🔭 I’m currently working on **final year project**
 
 - 👯 I’m looking to collaborate on **web development projects**
 
-- 🤝 I’m looking for help with **dsa,java script**
-
 - 👨‍💻 All of my projects are available at [https://github.com/anshuu08](https://github.com/anshuu08)
 
-- 💬 Ask me about **data structures and algorithms,computer networking,DBMS,python,html,css**
+- 💬 Ask me about **data structures and algorithms,computer networking,DBMS,python,html,css,react,js,node**
 
 - 📫 How to reach me **kondruanshu@gmail.com**
 
